@@ -63,3 +63,8 @@ CREATE OR REPLACE STREAMLIT STREAMLIT_DB.STREAMLIT_SCHEMA.USAGE_MONITORING_DASHB
 ## Compatibility
 
 Built for **Streamlit in Snowflake** runtime (Streamlit ~1.22). Avoids newer API parameters (`color`, `horizontal`, `hide_index`, `st.toggle`) that are not yet available in the SiS environment.
+
+## Screenshots
+
+![Dashboard Overview](https://github.com/sfc-gh-agrant/streamlit_cortex_agent_si_dash/blob/main/dashboard_overview.png)
+
